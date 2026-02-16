@@ -1,1 +1,3 @@
-# unlocked
+- **__*ＰｈｕｎｇＰｈｉＨｕｎｇ（フャナ）*__**
+- https://phungphihung.ddns.net
+- https://kichhoat.ddns.net
