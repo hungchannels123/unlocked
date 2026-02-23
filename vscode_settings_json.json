@@ -1,0 +1,107 @@
+{
+  "workbench.startupEditor": "welcomePage",
+  "workbench.experimental.share.enabled": true,
+  "workbench.colorTheme": "GitHub Dark",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorCustomizations": {
+    "sideBar.background": "#282a39",
+    "editor.background": "#282a39",
+    "terminal.background": "#282a39",
+    "panel.background": "#282a39",
+    "activityBar.background": "#282a39",
+    "tab.activeBorderTop": "#ffb86c",
+    "panelTitle.activeBorder": "#ffb86c"
+  },
+  "workbench.list.smoothScrolling": true,
+  "window.menuBarVisibility": "classic",
+  "editor.suggestSelection": "first",
+  "editor.fontSize": 15,
+  "editor.inlineSuggest.enabled": true,
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.smoothScrolling": true,
+  "editor.linkedEditing": true,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.guides.bracketPairs": true,
+  "files.autoSave": "off",
+  "settingsSync.ignoredExtensions": [],
+  "settingsSync.ignoredSettings": [],
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "sync.quietSync": true,
+  "sync.gist": "a8c8d8064ae9132bd08fad087e32499e",
+  "tabnine.experimentalAutoImports": true,
+  "npm.keybindingsChangedWarningShown": true,
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "vscode_custom_css.imports": [
+    "https://raw.githubusercontent.com/Aikoyori/ProgrammingVTuberLogos/main/ReplaceGuide/VSCode/style.css"
+  ],
+  "vscode-virtual.styles": [
+    "https://gist.githubusercontent.com/fz6m/62e4f36cdf7ec8108d5e11ed9bec007b/raw/6f98a62f5d002d3555be351a22c4d74c71726706/logo.css",
+  ],
+  "vscode-virtual.enabled": false,
+  "powermode.enabled": true,
+  "powermode.combo.location": "statusbar",
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "terminal.integrated.profiles.windows": {
+    "PowerShell": {
+      "source": "PowerShell",
+      "icon": "terminal-powershell"
+    },
+    "Command Prompt": {
+      "path": [
+        "${env:windir}\\Sysnative\\cmd.exe",
+        "${env:windir}\\System32\\cmd.exe"
+      ],
+      "args": [],
+      "icon": "terminal-cmd"
+    },
+    "Git Bash": {
+      "source": "Git Bash"
+    },
+    "Windows PowerShell": {
+      "path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+    }
+  },
+  "terminal.integrated.smoothScrolling": true,
+  "terminal.integrated.profiles.linux": {
+    "bash": {
+      "path": "bash",
+      "icon": "terminal-bash"
+    },
+    "zsh": {
+      "path": "zsh"
+    },
+    "fish": {
+      "path": "fish"
+    },
+    "tmux": {
+      "path": "tmux",
+      "icon": "terminal-tmux"
+    },
+    "pwsh": {
+      "path": "pwsh",
+      "icon": "terminal-powershell"
+    }
+  },
+  "mdb.mcp.server": "prompt",
+  "gitlens.ai.model": "vscode",
+  "gitlens.ai.vscode.model": "copilot:gpt-4.1"
+}

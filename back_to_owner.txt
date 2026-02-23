@@ -1,4 +1,5 @@
 Thank you for trusting me. I'm always trying my best when using other people's things. All of your friends treat me badly.
+! If you can't see your friend, it's possible they're on your blocked list. You can remove/block friends I've added. !
 ~ Last report and guide ~
 ~ YYYY/MM/DD 00:00:00 ICT ~
 Login Facebook/Google/Steam/Nintendo
@@ -15,21 +16,25 @@ Account ID:
 
 ===========>Kí hiệu đặt tên<===========
 
-'          : Thắp light
-"          : Được giúp đỡ
-*          : Bạn / sau khi thắp light / đã từng nhắn tin / special
-Dsc@/Tntok@: Discord/TikTok helpful/friend(cùng với username/id Discord/TikTok)
-^          : Động Tấu Hề Của Sì Kai Kid 🫶
-#          : Btrann friends
-@          : ❤️✨My Home ✨❤️ / Sol friends
--          : Clone / newbie / nghỉ game / chưa mở chat
-_          : Đối phương chặn / blocked
+'                        : Thắp light
+"                        : Được giúp đỡ
+*                        : Bạn / sau khi thắp light / đã từng nhắn tin / special
+Dsc@/Tntok@              : Discord/TikTok helpful/friend(username/id Discord/TikTok)
+#                        : Btrann friends
+@                        : ❤️✨My Home ✨❤️ / Sol friends
+-                        : Clone / newbie / nghỉ game / chưa mở chat
+_                        : Đối phương chặn / blocked
+[Hung/Sol/Mia/Btrann] f  : Him/her friends
+VN/Global                : Region(Vietnam / Global)
 
 ! Remember to unsend login information(search feature is helpful) !
 ~ Guide ~
 https://discord.gg/thatskygame
 https://discord.gg/skyinfographicsdatabase
+https://discord.gg/BFT7EAhrNz
 https://thatskyapplication.com
+https://x.com/ourskyjourney
+https://www.instagram.com/ourskyjourney
 https://www.facebook.com/thatskysyuan
 https://www.facebook.com/minhngocfoxie
 https://www.youtube.com/@noobmode
@@ -42,9 +47,8 @@ https://sky-season-calculator.netlify.app
 https://sky-planner.com
 https://skykidheight.com
 https://herokeyvn.github.io/Sky-AIO
-https://x.com/ourskyjourney
-https://x.com/sky_box0324
 https://skydreamers.notion.site/Sky-Event-Calendar-FM-ec6e6134924048859b2a8410b0a8b20d
 https://skydreamers.notion.site/Quest-Giver-Tree-Interaction-List-ef9f5a66b8314e4894f00ba2159756a7
 https://store.thatskygame.com
 https://nap.hhgame.vn
+https://mega.nz/folder/mvQAQIwb#MmJdqJCZkvTY2Ma7A8YzSg
