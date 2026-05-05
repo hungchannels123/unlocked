@@ -11,7 +11,7 @@ Account ID:
 ?? 🔴🕯️
 ?? 🎫
 ! Last eden: YYYY/MM/DD | Max winged lights: ?? !
-! Purchase proof:  | Purchase invoice:  !
+! Purchase proof:  | Purchase invoice:  | Payment method:  !
 ~ Logout proof ~
 
 
