@@ -16,13 +16,13 @@ var subscriptionData = {
   grace_period_expires_date: null,
   unsubscribe_detected_at: null,
   original_purchase_date: "2006-07-03T00:00:00Z",
-  purchase_date: "2006-07-03T00:00:00Z",
+  purchase_date: "2099-01-01T00:00:00Z",
   store: "app_store"
 };
 
 var entitlementData = {
   grace_period_expires_date: null,
-  purchase_date: "2006-07-03T00:00:00Z",
+  purchase_date: "2099-01-01T00:00:00Z",
   product_identifier: "com.locket.Locket.premium.yearly",
   expires_date: "2099-12-18T01:04:17Z"
 };
