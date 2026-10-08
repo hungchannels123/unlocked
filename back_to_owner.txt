@@ -60,6 +60,7 @@ https://sky-shards.pages.dev
 https://sky-event-calculator.netlify.app
 https://sky-season-calculator.netlify.app
 https://sky-planner.com
+https://skyinfoweb.pages.dev
 https://skykidheight.com
 https://herokeyvn.github.io/Sky-AIO
 https://vithai.xyz
