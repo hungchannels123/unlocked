@@ -3,7 +3,7 @@ Thank you for trusting me. I'm always trying my best when using other people's t
 ! If you can't see your friend, it's possible they're on your blocked list. You can remove/block friends I've added. !
 
 ~ Last report and guide ~
-~ DD/MM/YYYY 00:00:00 ICT ~
+~ YYYY/MM/DD 00:00:00 ICT ~
 ! Login: Game Center/Game Center (Vietnam)/Google/Facebook/Apple/Nintendo Account/HUAWEI ID/PlayStation Network/Steam/Twitch !
 ! Account ID:  !
 - ?? ⚪🕯
@@ -14,9 +14,9 @@ Thank you for trusting me. I'm always trying my best when using other people's t
 - ?? 🎫
 
 ! Last eden: DD/MM/YYYY | Max winged lights: ??? !
-! Purchase proof: (Custom Title)[https://youtu.be/???????????] | Purchase invoice: In your mail ????@?????(?)/[]() | Payment method: Google/Apple/Steam/Nintendo/PlayStation Visa/MasterCard/JCB/PayPal/Giftcard ???? | Card invoice: []() !
-! Logged in devices: HungChannels(Windows), X509UA(Windows), AN515-58(Windows), Redmi Note 12 Turbo(Android), iPad của HungChannels(iPad12,1) !
-! You can manually logout in account security, for Google [click here](https://myaccount.google.com/device-activity), for Steam [click here](https://store.steampowered.com/account/authorizeddevices), for Nintendo [click here](https://accounts.nintendo.com/login_history) !
+! Purchase proof: (Custom Title)[https://youtu.be/???????????] | Purchase invoice: (In your mail) ????@?????(?)/[]() | Payment method: Google/Apple/Steam/Nintendo/PlayStation Visa/MasterCard/JCB/PayPal/Giftcard ???? | Card invoice: []() !
+! Logged in devices: HungChannels(Windows), X509UA(Windows), AN515-58(Windows), Hùng Channels(iPhone11,2), iPad của HungChannels(iPad12,1), 1628654907(Redmi Note 12 Turbo) !
+! You can manually logout in account security, for Game Center/Apple [click here](https://account.apple.com/account/manage/section/devices), for Google [click here](https://myaccount.google.com/device-activity), for Facebook [click here](https://accountscenter.facebook.com/password_and_security/login_activity), for Nintendo Account [click here](https://accounts.nintendo.com/login_history), for HUAWEI ID [click here](https://id5.cloud.huawei.com/AMW/portal/userCenter/index.html#/security), for PlayStation Network [click here](https://id.sonyentertainmentnetwork.com/id/management_ca), for Steam [click here](https://store.steampowered.com/account/authorizeddevices), for Twitch [click here](https://www.twitch.tv/settings/security) !
 ! Logout proof: (Custom Title)[https://youtu.be/???????????] !
 
 ~ Other link ~
@@ -25,26 +25,40 @@ Thank you for trusting me. I'm always trying my best when using other people's t
 
 ===========>Kí hiệu đặt tên<===========
 
-'                       : Thắp light
-"                       : Được giúp đỡ
-*                       : Bạn / sau khi thắp light / đã từng nhắn tin / special
-Dc@/Tt@                 : Discord/TikTok helpful/friend(username/id Discord/TikTok)
-#                       : Btrann friends
-@                       : ❤️✨My Home ✨❤️ / Sol friends
--                       : Clone / newbie / nghỉ game / chưa mở chat
-_                       : Đối phương chặn / blocked
-[Hung/Sol/Mia/Btran] f  : Him/her friends
-VN/Global               : Region(Vietnam / Global)
+Prefix: 
+'                          : Thắp light
+"                          : Được giúp đỡ
+*                          : Bạn / sau khi thắp light / đã từng nhắn tin / special
+?                          : You have issue with him/her(him/her friend)
+Dc@/Tt@                    : Discord/TikTok helpful/friend(username/id Discord/TikTok)
+^                          : Động Tấu Hề Của Sì Kai Kid 🫶
+#                          : Btrann friends
+@                          : ❤️✨My Home ✨❤️ / Sol friends
+!                          : Cặp bạn foreigner
+$                          : Cặp bạn 1 / được ghép chung / đã từng nhắn tin VN
+%                          : Cặp bạn 2 / được ghép chung / đã từng nhắn tin VN
+q                          : Cặp bạn 3 / người lạ foreigner
+,                          : Chưa xếp hạng  / được ghép chung VN
+.                          : Chưa xếp hạng / được ghép chung / người lạ foreigner
+-                          : Clone / newbie / nghỉ game / chưa mở chat
+_                          : Đối phương chặn / blocked
+Suffix: 
+[Hung/Tran/Sol/Mia/Ml] f   : Him/her friends
+VN/US/PH/IN/TH/Gb/Global   : Region(Vietnam / United States / Philippines / India / Thailand / [Gb / Global]=UnknownRegion)
+Others: 
+Japanese Characters/Emoji  : Special
+Realm(1/2/3/4/5/6/7/8/9)   : Add nến / Chưa mở chat / người lạ foreigner
+1/2/3/4/5/6/7/8/9          : Thắp light / Unnamed / Anony
 
 ~ Guide ~
 https://discord.gg/thatskygame
+https://discord.gg/A4VkD65v98
 https://discord.gg/fbKZuqN3bF
 https://discord.gg/skyinfographicsdatabase
 https://discord.gg/7P93f9rjCc
 https://discord.gg/BFT7EAhrNz
-https://discord.gg/Mu8RS9FZky
 https://thatskyapplication.com
-https://www.facebook.com/Hung.Syuan.Official
+https://www.facebook.com/Syuan.Hung.Official
 https://www.facebook.com/minhngocfoxie
 https://www.facebook.com/61582142570266
 https://www.facebook.com/thatskygl
@@ -67,8 +81,12 @@ https://vithai.xyz
 https://canva.skymatchhub.io.vn
 https://kchip-sky.web.app
 https://sky-practice-music.web.app
+https://github.com/lekhanh2k5-dotcom/SkyBard-Releases
+https://play.google.com/store/apps/details?id=com.skybard.mobile
 https://skysheet.store
 https://sheettosky.io.vn
+https://sky.celestials.fun
+https://sheet.celestials.fun
 https://skydreamers.notion.site/Sky-Event-Calendar-FM-ec6e6134924048859b2a8410b0a8b20d
 https://skydreamers.notion.site/Quest-Giver-Tree-Interaction-List-ef9f5a66b8314e4894f00ba2159756a7
 https://skyoobguide.notion.site/41177d62a91c4c08a8cd50683700f6db
@@ -76,6 +94,7 @@ https://thearthcorner.notion.site/Sky-Children-of-the-Light-2551cd4e44d080b8bf4a
 https://store.thatskygame.com
 https://nap.hhgame.vn
 https://mega.nz/folder/mvQAQIwb#MmJdqJCZkvTY2Ma7A8YzSg
-https://drive.google.com/drive/folders/1jOYoE7UYxMiaYKI_ejWpqfcaid41DDQ7
 https://drive.google.com/drive/folders/1vQCTXPvg2pXuZhWB6mAlLJqjKxBwruSJ
+https://drive.google.com/drive/folders/19juWMjzjkpYQ8NZa7veWqtlAZEhwqHaD
+https://drive.google.com/drive/folders/1jOYoE7UYxMiaYKI_ejWpqfcaid41DDQ7
 https://drive.google.com/drive/folders/1Gyp_SK3vM2x0y2bzZrwHZ8d8br4sTswB
