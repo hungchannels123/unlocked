@@ -26,29 +26,31 @@ Thank you for trusting me. I'm always trying my best when using other people's t
 ===========>Kí hiệu đặt tên<===========
 
 Prefix: 
-'                          : Thắp light
-"                          : Được giúp đỡ
-*                          : Bạn / sau khi thắp light / đã từng nhắn tin / special
-?                          : You have issue with him/her(him/her friend)
-Dc@/Tt@                    : Discord/TikTok helpful/friend(username/id Discord/TikTok)
-^                          : Động Tấu Hề Của Sì Kai Kid 🫶
-#                          : Btrann friends
-@                          : ❤️✨My Home ✨❤️ / Sol friends
-!                          : Cặp bạn foreigner
-$                          : Cặp bạn 1 / được ghép chung / đã từng nhắn tin VN
-%                          : Cặp bạn 2 / được ghép chung / đã từng nhắn tin VN
-q                          : Cặp bạn 3 / người lạ foreigner
-,                          : Chưa xếp hạng  / được ghép chung VN
-.                          : Chưa xếp hạng / được ghép chung / người lạ foreigner
--                          : Clone / newbie / nghỉ game / chưa mở chat
-_                          : Đối phương chặn / blocked
+'                              : Thắp light
+"                              : Được giúp đỡ
+*                              : Bạn / sau khi thắp light / đã từng nhắn tin / special
+?                              : You have issue with him/her(him/her friend)
+Dc@/Tt@                        : Discord/TikTok helpful/friend(username/id Discord/TikTok)
+Anony????                      : Ẩn danh / không biết tên / thắp light
+^                              : Động Tấu Hề Của Sì Kai Kid 🫶
+#                              : Btrann friends
+@                              : ❤️✨My Home ✨❤️ / Sol friends
+!                              : Cặp bạn foreigner
+$                              : Cặp bạn 1 / được ghép chung / đã từng nhắn tin VN
+%                              : Cặp bạn 2 / được ghép chung / đã từng nhắn tin VN
+q                              : Cặp bạn 3 / người lạ foreigner
+,                              : Chưa xếp hạng  / được ghép chung VN
+.                              : Chưa xếp hạng / được ghép chung / người lạ foreigner
+-                              : Clone / newbie / nghỉ game / chưa mở chat
+_                              : Đối phương chặn / blocked
 Suffix: 
-[Hung/Tran/Sol/Mia/Ml] f   : Him/her friends
-VN/US/PH/IN/TH/Gb/Global   : Region(Vietnam / United States / Philippines / India / Thailand / [Gb / Global]=UnknownRegion)
+?                              : Add nến
+[Hung/Tran/Sol/Mia/Sue/Ml] f   : Him/her friends
+VN/US/PH/IN/TH/Gb/Global       : Region(Vietnam / United States / Philippines / India / Thailand / [Gb / Global]=UnknownRegion)
 Others: 
-Japanese Characters/Emoji  : Special
-Realm(1/2/3/4/5/6/7/8/9)   : Add nến / Chưa mở chat / người lạ foreigner
-1/2/3/4/5/6/7/8/9          : Thắp light / Unnamed / Anony
+Japanese characters/Emoji      : Special
+Realm(1/2/3/4/5/6/7/8/9)       : Add nến / chưa mở chat / người lạ foreigner
+1/2/3/4/5/6/7/8/9              : Thắp light / Unnamed / Anony
 
 ~ Guide ~
 https://discord.gg/thatskygame
